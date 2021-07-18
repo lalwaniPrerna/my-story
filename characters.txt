@@ -6,3 +6,5 @@ Characters
 5. hagrid
 6. nevil
 7. dumbeldore
+8. fluffy
+
